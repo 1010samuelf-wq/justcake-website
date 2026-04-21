@@ -142,5 +142,13 @@
     "kashrut": "dairy",
     "subcat": "miniatures",
     "img": ""
+  },
+  {
+    "key": "custom_1776793633303",
+    "name": "lemon cup",
+    "price": "5:00 each",
+    "kashrut": "parev",
+    "subcat": "miniatures",
+    "img": "https://raw.githubusercontent.com/1010samuelf-wq/justcake-website/main/images/custom_1776793633303.jpg?t=1776793634797"
   }
 ]
