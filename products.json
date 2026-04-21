@@ -1,0 +1,146 @@
+[
+  {
+    "key": "cheesecake_9low",
+    "name": "9″ Low Cheesecake",
+    "price": "$65 CAD",
+    "kashrut": "dairy",
+    "subcat": "cakes",
+    "img": ""
+  },
+  {
+    "key": "cheesecake_9high",
+    "name": "9″ High Cheesecake",
+    "price": "$110 CAD",
+    "kashrut": "dairy",
+    "subcat": "cakes",
+    "img": ""
+  },
+  {
+    "key": "cheesecake_10half",
+    "name": "10½″ Cheesecake",
+    "price": "$150 CAD",
+    "kashrut": "dairy",
+    "subcat": "cakes",
+    "img": ""
+  },
+  {
+    "key": "nine_layer_log",
+    "name": "Nine Layer Cheese Log",
+    "price": "$140 CAD",
+    "kashrut": "dairy",
+    "subcat": "cakes",
+    "img": ""
+  },
+  {
+    "key": "cheese_tart",
+    "name": "Cheese Tart",
+    "price": "$105 CAD",
+    "kashrut": "dairy",
+    "subcat": "cakes",
+    "img": ""
+  },
+  {
+    "key": "carrot_log",
+    "name": "Carrot Log",
+    "price": "$95 CAD",
+    "kashrut": "dairy",
+    "subcat": "cakes",
+    "img": ""
+  },
+  {
+    "key": "cappuccino_cookies",
+    "name": "Cappuccino Cookies",
+    "price": "$5.50 each",
+    "kashrut": "dairy",
+    "subcat": "miniatures",
+    "img": ""
+  },
+  {
+    "key": "mousse_cups",
+    "name": "Chocolate Mousse Cups",
+    "price": "$6.00 each",
+    "kashrut": "dairy",
+    "subcat": "miniatures",
+    "img": ""
+  },
+  {
+    "key": "babka_sticks",
+    "name": "Cheese Babka Sticks",
+    "price": "$6.00 each",
+    "kashrut": "dairy",
+    "subcat": "miniatures",
+    "img": ""
+  },
+  {
+    "key": "three_layer_squares",
+    "name": "Three Layer Squares",
+    "price": "$5.00 each",
+    "kashrut": "dairy",
+    "subcat": "miniatures",
+    "img": ""
+  },
+  {
+    "key": "choc_cheese_domes",
+    "name": "Chocolate Cheese Domes",
+    "price": "$3.50 each",
+    "kashrut": "dairy",
+    "subcat": "miniatures",
+    "img": ""
+  },
+  {
+    "key": "dairy_wafer_squares",
+    "name": "Dairy Wafer Cake Squares",
+    "price": "$5.00 each",
+    "kashrut": "dairy",
+    "subcat": "miniatures",
+    "img": ""
+  },
+  {
+    "key": "mini_cheese_tarts",
+    "name": "Mini Cheese Tarts",
+    "price": "$6.00 each",
+    "kashrut": "dairy",
+    "subcat": "miniatures",
+    "img": ""
+  },
+  {
+    "key": "choc_cheese_muffins",
+    "name": "Chocolate Cheese Muffins",
+    "price": "Lg $5.00 · Med $4.00",
+    "kashrut": "dairy",
+    "subcat": "miniatures",
+    "img": ""
+  },
+  {
+    "key": "carrot_muffins",
+    "name": "Carrot Muffins",
+    "price": "Lg $4.50 · Med $3.50",
+    "kashrut": "dairy",
+    "subcat": "miniatures",
+    "img": ""
+  },
+  {
+    "key": "cinnamon_buns",
+    "name": "Cinnamon Buns",
+    "price": "$4.50 each",
+    "kashrut": "dairy",
+    "subcat": "miniatures",
+    "img": ""
+  },
+  {
+    "key": "mini_cheesecake",
+    "name": "Mini Cheesecake",
+    "price": "$6.00 each",
+    "kashrut": "dairy",
+    "subcat": "miniatures",
+    "img": ""
+  },
+  {
+    "key": "carrot_cheese_cups",
+    "name": "Carrot Cheese Cups",
+    "price": "Price on request",
+    "kashrut": "dairy",
+    "subcat": "miniatures",
+    "img": ""
+  }
+]
