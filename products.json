@@ -150,5 +150,13 @@
     "kashrut": "parev",
     "subcat": "miniatures",
     "img": "https://raw.githubusercontent.com/1010samuelf-wq/justcake-website/main/images/custom_1776793633303.jpg?t=1776793634797"
+  },
+  {
+    "key": "custom_1776802719741",
+    "name": "log",
+    "price": "$75.00",
+    "kashrut": "parev",
+    "subcat": "cakes",
+    "img": "https://raw.githubusercontent.com/1010samuelf-wq/justcake-website/main/images/custom_1776802719741.jpg?t=1776802720789"
   }
 ]
