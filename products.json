@@ -182,5 +182,13 @@
     "kashrut": "parev",
     "subcat": "miniatures",
     "img": "https://raw.githubusercontent.com/1010samuelf-wq/justcake-website/main/images/custom_1776962645646.jpg?t=1776962647902"
+  },
+  {
+    "key": "custom_1776964585881",
+    "name": "lemon cup",
+    "price": "5:00 each",
+    "kashrut": "parev",
+    "subcat": "miniatures",
+    "img": "https://raw.githubusercontent.com/1010samuelf-wq/justcake-website/main/images/custom_1776964585881.jpg?t=1776964587123"
   }
 ]
