@@ -158,5 +158,13 @@
     "kashrut": "parev",
     "subcat": "cakes",
     "img": "https://raw.githubusercontent.com/1010samuelf-wq/justcake-website/main/images/custom_1776802719741.jpg?t=1776909800680"
+  },
+  {
+    "key": "custom_1776950597424",
+    "name": "Strawberry moose cup",
+    "price": "$6.00 each",
+    "kashrut": "parev",
+    "subcat": "miniatures",
+    "img": "https://raw.githubusercontent.com/1010samuelf-wq/justcake-website/main/images/custom_1776950597424.png?t=1776950613507"
   }
 ]
