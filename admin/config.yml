@@ -1,0 +1,30 @@
+backend:
+  name: github
+  repo: 1010samuelf-wq/justcake-website
+  branch: main
+
+media_folder: "images"
+public_folder: "images"
+
+collections:
+  - name: "products"
+    label: "Products"
+    label_singular: "Product"
+    file: "products.json"
+    format: json
+    fields:
+      - label: "Products List"
+        name: "products"
+        widget: "list"
+        fields:
+          - { label: "ID", name: "id", widget: "number" }
+          - { label: "Product Name", name: "name", widget: "string" }
+          - label: "Category"
+            name: "category"
+            widget: "select"
+            options:
+              - { label: "Cakes", value: "cakes" }
+              - { label: "Pastries", value: "pastries" }
+              - { label: "Seasonal", value: "seasonal" }
+          - { label: "Description", name: "description", widget: "text" }
+          - { label: "Photo", name: "image", widget: "image", required: false }
