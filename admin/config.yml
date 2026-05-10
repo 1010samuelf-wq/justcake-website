@@ -2,6 +2,9 @@ backend:
   name: git-gateway
   branch: main
 
+site_url: https://dainty-haupia-5c5004.netlify.app
+display_url: https://dainty-haupia-5c5004.netlify.app
+
 media_folder: "images"
 public_folder: "images"
 
