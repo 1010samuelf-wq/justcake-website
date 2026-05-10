@@ -2,10 +2,10 @@
   "products": [
     {
       "id": 1,
-      "name": "Classic Vanilla Layer Cake",
+      "name": "9\" Cheese cake",
       "category": "cakes",
       "description": "Light vanilla sponge with silky buttercream frosting, perfect for any celebration.",
-      "image": ""
+      "image": "images/img_8531.jpg"
     },
     {
       "id": 2,
