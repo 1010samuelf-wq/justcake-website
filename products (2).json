@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Classic Vanilla Layer Cake",
+      "category": "cakes",
+      "description": "Light vanilla sponge with silky buttercream frosting, perfect for any celebration.",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "Chocolate Ganache Cake",
+      "category": "cakes",
+      "description": "Rich dark chocolate cake with velvety ganache and a decorative finish.",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name": "Honey Almond Tart",
+      "category": "pastries",
+      "description": "Buttery shell filled with honey almond cream and toasted flakes.",
+      "image": ""
+    },
+    {
+      "id": 4,
+      "name": "Lemon Poppy Seed Loaf",
+      "category": "pastries",
+      "description": "Zesty lemon loaf with poppy seeds and a sweet citrus glaze.",
+      "image": ""
+    },
+    {
+      "id": 5,
+      "name": "Honey Cake",
+      "category": "seasonal",
+      "description": "Traditional spiced honey cake for the High Holidays, made fresh to order.",
+      "image": ""
+    },
+    {
+      "id": 6,
+      "name": "Strawberry Chiffon Cake",
+      "category": "cakes",
+      "description": "Delicate chiffon layers with strawberry cream and fresh seasonal fruit.",
+      "image": ""
+    },
+    {
+      "id": 7,
+      "name": "Rugelach",
+      "category": "pastries",
+      "description": "Flaky rolled pastries filled with chocolate or cinnamon walnut.",
+      "image": ""
+    },
+    {
+      "id": 8,
+      "name": "Rosh Hashana Gift Box",
+      "category": "seasonal",
+      "description": "Beautifully packaged assortment of holiday treats, ready to gift.",
+      "image": ""
+    }
+  ]
+}
