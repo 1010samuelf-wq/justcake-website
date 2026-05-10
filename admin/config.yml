@@ -1,8 +1,6 @@
 backend:
-  name: github
-  repo: 1010samuelf-wq/justcake-website
+  name: git-gateway
   branch: main
-  client_id: Ov23likhDGyHrlkUrPde
 
 media_folder: "images"
 public_folder: "images"
