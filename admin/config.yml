@@ -11,23 +11,18 @@ public_folder: "images"
 collections:
   - name: "products"
     label: "Products"
-    files:
-      - label: "Product List"
-        name: "product_list"
-        file: "products.json"
-        fields:
-          - label: "Products"
-            name: "products"
-            widget: "list"
-            fields:
-              - { label: "ID", name: "id", widget: "number" }
-              - { label: "Product Name", name: "name", widget: "string" }
-              - label: "Category"
-                name: "category"
-                widget: "select"
-                options:
-                  - { label: "Cakes", value: "cakes" }
-                  - { label: "Pastries", value: "pastries" }
-                  - { label: "Seasonal", value: "seasonal" }
-              - { label: "Description", name: "description", widget: "text" }
-              - { label: "Photo", name: "image", widget: "image", required: false }
+    folder: "_products"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Product Name", name: "name", widget: "string" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Cakes", value: "cakes" }
+          - { label: "Pastries", value: "pastries" }
+          - { label: "Seasonal", value: "seasonal" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Photo", name: "image", widget: "image", required: false }
+      - { label: "Order", name: "order", widget: "number", default: 99 }
